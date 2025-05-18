@@ -15,7 +15,8 @@ UAB Finley Conference Center
   - James Lawler
   - Jared Taylor
 
-Data Sets provided in UAB Box Folder TPiN Workshop - 2025
+Data Sets provided in UAB Box Folder "TPiN Workshop - 2025".
+
 All registered attendees will be given access to this folder prior to the workshop.
 
 Informational Flyer:
