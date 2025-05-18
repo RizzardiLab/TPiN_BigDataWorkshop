@@ -1,2 +1,21 @@
-# TPiN_BigDataWorkshop
-Materials and code for TPiN Big Data workshop 2025.
+# TPiN Big Data Workshop
+June 4, 2025 12:30 - 4:00pm
+UAB Finley Conference Center
+
+## Instructor Information
+- Nick Cochran, PhD
+  - Faculty Investigator
+  - HudsonAlpha
+- Lindsay Rizzardi, PhD
+  - Assistant Professor
+  - Department of Biochemistry and Molecular Genetics
+  - UAB
+- Assistants:
+  - Ashlyn Anderson
+  - James Lawler
+  - Jared Taylor
+
+Informational Flyer:
+https://www.uab.edu/medicine/cnet/training/tpin-horizons-presents 
+
+Supported by NIH 2T32NS095775-08
