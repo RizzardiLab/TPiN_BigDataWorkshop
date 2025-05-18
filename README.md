@@ -9,7 +9,7 @@ UAB Finley Conference Center
 - Lindsay Rizzardi, PhD
   - Assistant Professor
   - Department of Biochemistry and Molecular Genetics
-  - UAB
+  - University of Alabama at Birmingham
 - Assistants:
   - Ashlyn Anderson
   - James Lawler
