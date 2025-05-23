@@ -12,6 +12,7 @@ UAB Finley Conference Center
   - University of Alabama at Birmingham
 - Assistants:
   - Ashlyn Anderson
+  - Stephanie Felker, PhD
   - James Lawler
   - Jared Taylor
 
