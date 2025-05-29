@@ -13,7 +13,7 @@ UAB Finley Conference Center
 - Assistants:
   - Ashlyn Anderson
   - Stephanie Felker, PhD
-  - James Lawler
+  - James Lawlor
   - Jared Taylor
 
 Data Sets provided in UAB Box Folder "TPiN Workshop - 2025".
